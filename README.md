@@ -1,6 +1,10 @@
+
+
+
+
 \## Problem 1
 
-!\[Problem 1 Screenshot](screenshots\\sync\_1.png)
+!\[Problem 1 Screenshot](screenshots/sync\_1.png)
 
 
 
